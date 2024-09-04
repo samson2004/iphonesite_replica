@@ -39,11 +39,11 @@ const Model = () => {
     useEffect(() => {
         if (size == 'large') {
             animatewithgsaptimeline(tl, small, smallRotation, '#veiw1', '#veiw2',
-                { transform: 'translateX(-100%)', duration: 2 })
+                { transform: 'translateX(-100%)', duration: 1 })
         }
         if (size == 'small') {
             animatewithgsaptimeline(tl, large, largeRotation, '#veiw2', '#veiw1',
-                { transform: 'translateX(0)', duration: 2 })
+                { transform: 'translateX(0)', duration: 1 })
         }
     }, [size]);
 
