@@ -1,2 +1,6 @@
+Iphone 15 pro home-page replica
 
-[Apple iPhone.pdf](https://github.com/user-attachments/files/17088952/Apple.iPhone.pdf)
+A sleek iPhone 15 website replica built using React, Tailwind CSS, GSAP for animations, 
+and Three.js for stunning 3D visuals, delivering a dynamic, modern user experience
+
+![image](https://github.com/user-attachments/assets/67e1fdab-aa52-49ed-8544-6b3b17decedc)
